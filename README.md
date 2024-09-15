@@ -1,47 +1,43 @@
 <img src="https://github.com/vito-boni/vito-boni/blob/main/cutestuff/vito_intro.gif" alt="Header Image">
 
 # Welcome!
-My name is Vito and I'm from Indonesia, Tangerang Selatan. I study Information Technology (or Information Engineering). 
+My name is Vito and I'm from Indonesia, Tangerang Selatan. Currently studying Information Technology.
+<p align="left">
+<a href="https://github.com/vito-boni">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vito-boni&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=2bbc8a&bg_color=1F2633&border_color=444c56&include_all_commits=true&count_private=true&custom_title=Stats"/>
+</a>
+</p>
 
 ## I'm working with...
 
 <p align="left">
 <a href="https://github.com/vito-boni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vito-boni&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=2bbc8a&bg_color=1F2633&border_color=444c56&include_all_commits=true&count_private=true&custom_title=GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vito-boni&layout=compact&langs_count=8&title_color=FFFFFF&text_color=FFFFFF&bg_color=1F2633&border_color=444c56"/>
 </a>
 </p>
 
-- **Programming**: C/C++, Python, Java, JavaScript, PHP
-- **Markup & Styling**: HTML & CSS, Latex
-- **Frameworks**: React, Node.js, Django
-- **Project Management**: Git
-- **Deployment**: GitHub
-- **Libraries**: -
-- **Databases**: -
+- **Programming**: C/C++, Python, Java, JavaScript, PHP.
+- **Markup & Styling**: HTML & CSS, LaTeX.
+- **Frameworks**: React, Node.js, Django.
+- **Project Management**: Git.
+- **Deployment**: GitHub.
+- **Libraries**: NumPy
+- **Databases**: MySQL
 
 ## Projects
 - Check out a game that I made with Scratch: [Toad vs Hoomans](https://scratch.mit.edu/projects/944565585/)
-- The classic snake game on your old nokia phone can be played [here]()
+- The classic snake game on your old nokia phone can be played [here](https://github.com/vito-boni/Python/blob/main/SNAKE-IS-SNACKING/snake.py)
 
 ## Other Competences
-- **Natural Languages**  : Indonesian (N), English (C2), French (B1), German (A2), Spanish (A2), Japanese (A1), Chinese Mandarin Simplified (A1)
-- **Office Tools**       : Google Workspace, Microsoft Office 365
-- **Editing Softwares**  : Adobe Creative Clouds, DaVinci Resolved, Blender, Figma, Canva
+- **Natural Languages**  : Indonesian (N), English (C2), French (B1), German (A2), Spanish (A2), Japanese (A1), Chinese Mandarin Simplified (A1).
+- **Office Tools**       : Google Workspace, Microsoft Office 365.
+- **Editing Softwares**  : Adobe Creative Clouds, DaVinci Resolved, Blender, Figma, Canva.
 
-## Contact
-- **Website**: -
+## Contact 📲
 - **Email**: boni.vito@hotmail.com
 - **LinkedIn**: [Vito Boni](https://linkedin.com/in/vito-boni)
 
 ## Personality Check 🚀🛰️
-- I'm passionate about the latest technologies.
-- I love photography and often go out taking pictures of the nature or my friends.
-- I do work out. I do weight lifting 2-3 times a week, dancing 1-2 times a week, cycling once a week and swimming 1-2 a month.
-- I can do the middle split.
-- My dream for 2026 would be: graduated, speak fluent german and spanish, huge github portfolio glow up, get awesome jobs, have flagship techs, and having enough budget to continue my master's degree overseas.
-
-### My Top Songs Sep 2024 🎶🎧
-- [Only In My Dream - The Marias](https://music.youtube.com/watch?v=HnXzzTIFu_U&si=fZkBErNwpeh_A-2d)
-- [vampire - Olivia Rodrigo](https://music.youtube.com/watch?v=aHmg0jsmNhg&si=pWB72g2A3cT3S8iu)
-- [Fantasy - 90sFlav](https://music.youtube.com/watch?v=GjpOoVlZtao&si=0a8SQxjwVXb5gjJ9)
+- Passionate about AI & tech, natural science, photography, and fitness (weightlifting, dancing, cycling, MMA, swimming)
+- Can do a middle split!
+- My 2026 goal: graduation, fluent in German & Spanish, tech portfolio glow-up, awesome jobs, and ready for a master's overseas.
