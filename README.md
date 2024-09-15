@@ -4,11 +4,16 @@
 My name is Vito and I'm from Indonesia, Tangerang Selatan. I study Information Technology (or Information Engineering). 
 
 ## I'm working with...
+<p align="left">
+<a href="https://github.com/vito-boni">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vito-boni&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vito-boni&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 - **Programming**: C/C++, Python, Java, JavaScript, PHP
 - **Markup & Styling**: HTML & CSS, Latex
 - **Frameworks**: React, Node.js, Django
 - **Project Management**: Git
-
 - **Deployment**: GitHub
 - **Libraries**: -
 - **Databases**: -
