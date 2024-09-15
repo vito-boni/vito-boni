@@ -1,7 +1,7 @@
 <img src="https://github.com/vito-boni/vito-boni/blob/main/cutestuff/vito_intro.gif" alt="Header Image">
 
 # Welcome!
-My name is Vito and I'm from Indonesia, Tangerang Selatan. Currently studying Information Technology.
+I'm Vito and I'm from Indonesia, Tangerang Selatan. Currently studying Information Technology. Nice too meet you !
 <p align="left">
 <a href="https://github.com/vito-boni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vito-boni&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=2bbc8a&bg_color=1F2633&border_color=444c56&include_all_commits=true&count_private=true&custom_title=Stats"/>
@@ -31,7 +31,7 @@ My name is Vito and I'm from Indonesia, Tangerang Selatan. Currently studying In
 ## Other Competences
 - **Natural Languages**  : Indonesian (N), English (C2), French (B1), German (A2), Spanish (A2), Japanese (A1), Chinese Mandarin Simplified (A1).
 - **Office Tools**       : Google Workspace, Microsoft Office 365.
-- **Editing Softwares**  : Adobe Creative Clouds, DaVinci Resolved, Blender, Figma, Canva.
+- **Editing Softwares**  : Adobe Creative Clouds, DaVinci Resolve, Blender, Figma, Canva.
 
 ## Contact 📲
 - **Email**: boni.vito@hotmail.com
