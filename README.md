@@ -1,4 +1,4 @@
-<img src="https://github.com/vito-boni/vito-boni/blob/main/vito-intro.gif" alt="Header Image">
+<img src="https://github.com/vito-boni/vito-boni/blob/main/cutestuff/vito_intro.gif" alt="Header Image">
 
 # Welcome!
 My name is Vito and I'm from Indonesia, Tangerang Selatan. I study Information Technology (or Information Engineering). 
