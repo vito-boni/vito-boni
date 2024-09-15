@@ -4,10 +4,11 @@
 My name is Vito and I'm from Indonesia, Tangerang Selatan. I study Information Technology (or Information Engineering). 
 
 ## I'm working with...
+
 <p align="left">
 <a href="https://github.com/vito-boni">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vito-boni&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vito-boni&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vito-boni&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=2bbc8a&bg_color=1F2633&border_color=444c56&include_all_commits=true&count_private=true&custom_title=GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vito-boni&layout=compact&langs_count=8&title_color=FFFFFF&text_color=FFFFFF&bg_color=1F2633&border_color=444c56"/>
 </a>
 </p>
 
