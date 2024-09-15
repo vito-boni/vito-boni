@@ -20,7 +20,7 @@ My name is Vito and I'm from Indonesia, Tangerang Selatan. I study Information T
 ## Other Competences
 - **Natural Languages**  : Indonesian (N), English (C2), French (B1), German (A2), Spanish (A2), Japanese (A1), Chinese Mandarin Simplified (A1)
 - **Office Tools**       : Google Workspace, Microsoft Office 365
-- **Editing Softwares**  : Adobe Creative Clouds, Canva, 
+- **Editing Softwares**  : Adobe Creative Clouds, DaVinci Resolved, Blender, Figma, Canva
 
 ## Contact
 - **Website**: -
@@ -29,4 +29,12 @@ My name is Vito and I'm from Indonesia, Tangerang Selatan. I study Information T
 
 ## Personality Check 🚀🛰️
 - I'm passionate about the latest technologies.
-- I love photography.
+- I love photography and often go out taking pictures of the nature or my friends.
+- I do work out. I do weight lifting 2-3 times a week, dancing 1-2 times a week, cycling once a week and swimming 1-2 a month.
+- I can do the middle split.
+- My dream for 2026 would be: graduated, speak fluent german and spanish, huge github portfolio glow up, get awesome jobs, have flagship techs, and having enough budget to continue my master's degree overseas.
+
+### My Top Songs Sep 2024 🎶🎧
+- [Only In My Dream - The Marias](https://music.youtube.com/watch?v=HnXzzTIFu_U&si=fZkBErNwpeh_A-2d)
+- [vampire - Olivia Rodrigo](https://music.youtube.com/watch?v=aHmg0jsmNhg&si=pWB72g2A3cT3S8iu)
+- [Fantasy - 90sFlav](https://music.youtube.com/watch?v=GjpOoVlZtao&si=0a8SQxjwVXb5gjJ9)
