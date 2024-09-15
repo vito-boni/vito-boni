@@ -10,6 +10,7 @@ My name is Vito and I'm from Indonesia, Tangerang Selatan. I study Information T
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vito-boni&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
 - **Programming**: C/C++, Python, Java, JavaScript, PHP
 - **Markup & Styling**: HTML & CSS, Latex
 - **Frameworks**: React, Node.js, Django
