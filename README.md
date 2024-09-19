@@ -1,7 +1,7 @@
 <img src="https://github.com/vito-boni/vito-boni/blob/main/cutestuff/vito_intro.gif" alt="Header Image">
 
 # Welcome!
-I'm Vito and I'm from Indonesia, Tangerang Selatan. Currently studying Information Technology. Nice too meet you !
+I'm Vito and I'm from Indonesia, Tangerang Selatan. Currently studying Information Technology. Excited to connect with you !
 <p align="left">
 <a href="https://github.com/vito-boni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vito-boni&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=2bbc8a&bg_color=1F2633&border_color=444c56&include_all_commits=true&count_private=true&custom_title=Stats"/>
