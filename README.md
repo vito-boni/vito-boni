@@ -34,7 +34,7 @@ I'm Vito and I'm from Indonesia, Tangerang Selatan. Currently studying Informati
 - **Editing Softwares**  : Adobe Creative Clouds, DaVinci Resolve, Blender, Figma, Canva.
 
 ## Contact 📲
-- **Webdite**: [Vito B.](https://vitoboni.carrd.co)
+- **Website**: [Vito B.](https://vitoboni.carrd.co)
 - **LinkedIn**: [Vito Boni](https://linkedin.com/in/vito-boni)
 
 ## Personality Check 🚀🛰️
