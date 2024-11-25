@@ -16,12 +16,10 @@ I'm Vito and I'm from Tangerang Selatan, Indonesia. Currently studying Informati
 </a>
 </p>
 
-- **Programming**: C/C++, Python, Java, JavaScript, PHP.
-- **Markup & Styling**: HTML & CSS, LaTeX.
-- **Frameworks**: React, Node.js, Django.
-- **Project Management**: Git.
-- **Deployment**: GitHub.
-- **Libraries**: NumPy
+- **Programming**: C/C++, Python, Java, JavaScript, TypeScript, PHP, SQL.
+- **Markup & Styling**: HTML, CSS, LaTeX.
+- **Libraries/Frameworks**: React, Node.js, Django, NumbPy, GCP.
+- **Dev Tools**: Git, GitHub.
 - **Databases**: MySQL
 
 ## Projects
