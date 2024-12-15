@@ -18,24 +18,25 @@ I'm Vito and I'm from Tangerang Selatan, Indonesia. Currently studying Informati
 
 - **Programming**: C/C++, Python, Java, JavaScript, TypeScript, PHP, SQL.
 - **Markup & Styling**: HTML, CSS, LaTeX.
-- **Libraries/Frameworks**: React, Node.js, Django, NumbPy, GCP.
-- **Dev Tools**: Git, GitHub.
-- **Databases**: MySQL
+- **Libraries/Frameworks**: Google Cloud Platform, React, Node.js, Django, NumPy, Flask.
+- **Development Tools**: Git, GitHub, MySQL.
+- **CI/CD**: Jenkins, GitHub Actions.
 
 ## Projects
-- Check out a game that I made with Scratch: [Toad vs Hoomans](https://scratch.mit.edu/projects/944565585/)
-- The classic snake game on your old nokia phone can be played [here](https://github.com/vito-boni/Python/blob/main/SNAKE-IS-SNACKING/snake.py)
+- Check out a game that I made with Scratch [here].(https://scratch.mit.edu/projects/944565585/)
+- The classic snake game on your old Nokia phone can be played [here].(https://github.com/vito-boni/Python/blob/main/SNAKE-IS-SNACKING/snake.py)
 
-## Other Competences
-- **Natural Languages**  : Indonesian (N), English (C2), French (B1), German (A2), Spanish (A2), Japanese (A1), Chinese Mandarin Simplified (A1).
-- **Office Tools**       : Google Workspace, Microsoft Office 365.
-- **Editing Softwares**  : Adobe Creative Clouds, DaVinci Resolve, Blender, Figma, Canva.
+## Other Skills
+- **Languages**: Indonesian (N), English (C2), French (B2), German (B1), Spanish (B1), Japanese (A1), Mandarin Chinese (A1).
+- **Office Tools**: Google Workspace, Microsoft Office 365, Atlassian Suite.
+- **Editing Software**: Adobe Creative Cloud, DaVinci Resolve, Blender, Figma, Canva.
 
 ## Contact 📲
-- **Website**: [Vito B.](https://vitoboni.carrd.co)
+- **Website**: [Vito Boni](https://vitoboni.carrd.co)
 - **LinkedIn**: [Vito Boni](https://linkedin.com/in/vito-boni)
 
 ## Personality Check 🚀🛰️
-- Passionate about AI & tech, natural science, photography, and fitness (weightlifting, dancing, cycling, MMA, swimming)
+- Passionate about AI & tech, science, photography, and fitness! (weightlifting, dancing, MMA, swimming)
 - Can do a middle split!
-- My 2026 goal: graduation, fluent in German & Spanish, tech portfolio glow-up, awesome jobs, and ready for a master's overseas.
+- I play the piano!
+- My 2026 goal: graduation, fluent in German & Spanish, awesome jobs and ready for a master's overseas!
