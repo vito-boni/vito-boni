@@ -23,17 +23,17 @@ I'm Vito and I'm from Tangerang Selatan, Indonesia. Currently studying Informati
 - **CI/CD**: Jenkins, GitHub Actions.
 
 ## Projects
-- Check out a game that I made with Scratch [here].(https://scratch.mit.edu/projects/944565585/)
-- The classic snake game on your old Nokia phone can be played [here].(https://github.com/vito-boni/Python/blob/main/SNAKE-IS-SNACKING/snake.py)
+- Check out a game that I made with Scratch [here](https://scratch.mit.edu/projects/944565585/).
+- The classic snake game on your old Nokia phone can be played [here](https://github.com/vito-boni/Python/blob/main/SNAKE-IS-SNACKING/snake.py).
 
 ## Other Skills
 - **Languages**: Indonesian (N), English (C2), French (B2), German (B1), Spanish (B1), Japanese (A1), Mandarin Chinese (A1).
 - **Office Tools**: Google Workspace, Microsoft Office 365, Atlassian Suite.
 - **Editing Software**: Adobe Creative Cloud, DaVinci Resolve, Blender, Figma, Canva.
 
-## Contact 📲
-- **Website**: [Vito Boni](https://vitoboni.carrd.co)
-- **LinkedIn**: [Vito Boni](https://linkedin.com/in/vito-boni)
+## Let's Connect 📲
+- **Website**: [Vito Boni](https://vitoboni.carrd.co) !
+- **LinkedIn**: [vito-boni](https://linkedin.com/in/vito-boni) !
 
 ## Personality Check 🚀🛰️
 - Passionate about AI & tech, science, photography, and fitness! (weightlifting, dancing, MMA, swimming)
