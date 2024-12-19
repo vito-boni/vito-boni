@@ -18,9 +18,8 @@ I'm Vito and I'm from Tangerang Selatan, Indonesia. Currently studying Informati
 
 - **Programming**: C/C++, Python, Java, JavaScript, TypeScript, PHP, SQL.
 - **Markup & Styling**: HTML, CSS, LaTeX.
-- **Libraries/Frameworks**: Google Cloud Platform, React, Node.js, Django, NumPy, Flask.
-- **Development Tools**: Git, GitHub, MySQL.
-- **CI/CD**: Jenkins, GitHub Actions.
+- **Cloud Provider**: Google Cloud Platform.
+- Read my [GitHub Summary](https://github.com/vito-boni/vito-boni/blob/main/SUMMARY.md)
 
 ## Projects
 - Check out a game that I made with Scratch [here](https://scratch.mit.edu/projects/944565585/).
