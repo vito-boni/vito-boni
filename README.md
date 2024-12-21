@@ -35,7 +35,8 @@ I'm Vito and I'm from Tangerang Selatan, Indonesia. Currently studying Informati
 - **LinkedIn**: [vito-boni](https://linkedin.com/in/vito-boni) !
 
 ## Personality Check 🚀🛰️
-- Passionate about AI & tech, science, photography, and fitness! (weightlifting, dancing, MMA, swimming)
-- Can do a middle split!
+- Passionate about AI, quantum technology, natural science, visual art, and life philosophy!
+- I run, lift weight, swim, dance and do MMA!
 - I play the piano!
-- My 2026 goal: graduation, fluent in German & Spanish, awesome jobs and ready for a master's overseas!
+- I can do a middle split!
+- In 2026, I will graduate, have mesmerizing working experience and afford myself to study and live overseas!
