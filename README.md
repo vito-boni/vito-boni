@@ -1,6 +1,6 @@
 <img src="https://github.com/vito-boni/vito-boni/blob/main/cutestuff/vito_intro.gif" alt="Header Image">
 
-# 🧭Vito Boni
+# Vito Boni 🧭
 Hi there! I'm Vito from South Tangerang, Indonesia. 🎓 Currently, I’m pursuing a degree in Information Technology. Always eager to learn, grow, and connect with like-minded individuals. Let's connect and collaborate! 🔬🛰️🌌
 
 ### 🖥️Programming
