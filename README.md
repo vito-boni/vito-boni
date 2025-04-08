@@ -58,7 +58,7 @@ Read my [GitHub Summary](https://github.com/vito-boni/vito-boni/blob/main/SUMMAR
 
 ### Personality Check! 🛳️🏞️
 - Passionate about AI, quantum technology, natural science, visual art, and life philosophy!
-- I run, lift weight, swim, dance and do MMA!
-- I play the piano!
-- I can do a middle split!
+- I speak 2 foreign languages; english and french!
+- I ruck, lift weight, swim, dance and do MMA!
+- I love plants and playing the piano!
 - In 2026, I will graduate, have mesmerizing working experience and afford myself to study and live overseas!
