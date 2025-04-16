@@ -5,7 +5,6 @@ Hi there! I'm Vito from South Tangerang, Indonesia. 🎓 Currently, I’m pursui
 
 ### 🖥️Programming
 
-  <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -16,9 +15,12 @@ Hi there! I'm Vito from South Tangerang, Indonesia. 🎓 Currently, I’m pursui
   <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  <img align="left" alt="GC" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="left" alt="GC" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" />
   <img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
   <img align="left" alt="GC" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+  
 <br />
 
 #
@@ -57,8 +59,7 @@ Read my [GitHub Summary](https://github.com/vito-boni/vito-boni/blob/main/SUMMAR
 - **LinkedIn**: [vito-boni](https://linkedin.com/in/vito-boni) !
 
 ### Personality Check! 🛳️🏞️
-- Passionate about AI, quantum technology, natural science, visual art, and life philosophy!
-- I speak 2 foreign languages; english and french!
-- I ruck, lift weight, swim, dance and do MMA!
-- I love plants and playing the piano!
-- In 2026, I will graduate, have mesmerizing working experience and afford myself to study and live overseas!
+- I love and own plants!
+- I play the piano!
+- I love cinematic and classic songs!
+- I love… reading spoilers. I don't care!
