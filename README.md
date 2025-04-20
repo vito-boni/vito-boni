@@ -59,8 +59,17 @@ Read my [GitHub Summary](https://github.com/vito-boni/vito-boni/blob/main/SUMMAR
 - **Website**: [Vito Boni](https://vitoboni.carrd.co) !
 - **LinkedIn**: [vito-boni](https://linkedin.com/in/vito-boni) !
 
+#
+
 ### Personality Check! 🛳️🏞️
-- I love and own plants!
+- I love and own plants and pet!
 - I play the piano!
-- I love cinematic and classic songs!
+- I love mountains and high altitude— Let's go paragliding!
 - I love… reading spoilers. I don't care!
+
+### Currently on loop 🎧🔂
+* Let it happen - Tame Impala
+* Rêverie - Claude Debussy
+* Peccato Mortale (Happiness #7) - Piero Piccioni
+* Witchcraft - La Femme
+* Ruthless - The Marías
