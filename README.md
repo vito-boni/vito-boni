@@ -31,7 +31,7 @@ Hi there! I'm Vito from South Tangerang, Indonesia. 🎓 Currently, I’m pursui
 - The classic snake game on your old Nokia phone can be played [here](https://github.com/vito-boni/Python/blob/main/SNAKE-IS-SNACKING/snake.py).
 
 ### Other Skills
-- **Languages**: Indonesian (N), English (C1), French (B2), German (B1), Spanish (B1), Japanese (A1), Mandarin Chinese (A1).
+- **Languages**: Indonesian (N), English (C1), French (B2), German (A2), Spanish (A2), Japanese (A1), Mandarin Chinese (A1).
 - **Office Tools**: Google Workspace, Microsoft Office 365, Atlassian Suite.
 - **Editing Software**: Adobe Creative Cloud, DaVinci Resolve, Blender, Figma, Canva.
 
@@ -61,15 +61,16 @@ Read my [GitHub Summary](https://github.com/vito-boni/vito-boni/blob/main/SUMMAR
 
 #
 
-### Personality Check! 🛳️🏞️
-- I love and own plants and pet!
-- I play the piano!
-- I love mountains and high altitude— Let's go paragliding!
-- I love… reading spoilers. I don't care!
+### Personality Check 🛳️🏞️
+- Plant owner, pet caretaker.
+- Piano player.
+- High altitudes > sea level.
+- Spoilers > suspense.
+- Hard work doesn't guarantee you everything, but it gives you a chance
 
 ### Currently on loop 🎧🔂
-* Let it happen - Tame Impala
-* Rêverie - Claude Debussy
-* Peccato Mortale (Happiness #7) - Piero Piccioni
-* Witchcraft - La Femme
-* Ruthless - The Marías
+- Let it happen - Tame Impala
+- Rêverie - Claude Debussy
+- Peccato Mortale (Happiness #7) - Piero Piccioni
+- Witchcraft - La Femme
+- Ruthless - The Marías
