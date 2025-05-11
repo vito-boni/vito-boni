@@ -64,8 +64,8 @@ Read my [GitHub Summary](https://github.com/vito-boni/vito-boni/blob/main/SUMMAR
 - Plant owner, pet caretaker.
 - Piano player.
 - High altitudes > sea level.
-- Spoilers > suspense.
-- Hard work doesn't guarantee you everything, but it gives you a chance
+- I love spoilers. I love reading the movie's plot before watching it.
+- Hard work doesn't guarantee you everything, but it gives you a chance.
 
 ### Currently on loop 🎧🔂
 - Let it happen - Tame Impala
