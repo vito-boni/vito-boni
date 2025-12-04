@@ -28,8 +28,8 @@ Hi there! Let's connect and collaborate! 🔬🛰️🌌
 
 ### 📈 Practical Skills
 - **Languages**: Indonesian (N), English (C1), French (B2), Spanish (A2), Japanese (A1).
-- **Office Tools**: Google Workspace, Microsoft Office 365, Atlassian Suite.
-- **Editing Software**: Adobe Creative Cloud, DaVinci Resolve, Blender, Figma, Canva.
+- **Office Tools**: Google Workspace, Microsoft Office 365, Atlassian Suite, Figma.
+- **Other Software**: DaVinci Resolve & Blender.
 
 #
 
@@ -65,8 +65,10 @@ Read my [GitHub Summary](https://github.com/vito-boni/vito-boni/blob/main/SUMMAR
 - Hard work doesn't guarantee you everything, but it gives you a chance.
 
 ### Currently on loop 🎧🔂
+- Love - Lana Del Rey
 - Let it happen - Tame Impala
 - Rêverie - Claude Debussy
 - Peccato Mortale (Happiness #7) - Piero Piccioni
-- Witchcraft - La Femme
+- Danza Marilù - L'Impératrice
 - Ruthless - The Marías
+- Paris - La Femme
