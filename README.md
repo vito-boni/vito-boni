@@ -26,7 +26,7 @@ Hi there! Let's connect and collaborate! 🔬🛰️🌌
 - The classic snake game on your old Nokia phone can be played [here](https://github.com/vito-boni/Python/blob/main/SNAKE-IS-SNACKING/snake.py).
 
 ### 📈 Practical Skills
-- **Languages**: Indonesian (N), English (C1), French (B2), Spanish (A2), Japanese (A1).
+- **Languages**: Indonesian (N), English (C1), French (B2), Mandarin (A2), Japanese (A1).
 - **Office Tools**: Google Workspace, Microsoft Office 365, Atlassian Suite, Figma.
 - **Other Software**: DaVinci Resolve & Blender.
 
@@ -59,15 +59,12 @@ Read my [GitHub Summary](https://github.com/vito-boni/vito-boni/blob/main/SUMMAR
 ### Personality Check 🛳️🏞️
 - Plant owner, pet caretaker.
 - Piano player.
-- High altitudes > sea level.
+- High altitudes < sea level.
 - I love spoilers. I love reading the movie's plot before watching it.
 - Hard work doesn't guarantee you everything, but it gives you a chance.
 
 ### Currently on loop 🎧🔂
-- Love - Lana Del Rey
+- Uncle ACE - Blood Orange
 - Let it happen - Tame Impala
 - Rêverie - Claude Debussy
-- Peccato Mortale (Happiness #7) - Piero Piccioni
-- Danza Marilù - L'Impératrice
-- Ruthless - The Marías
-- Paris - La Femme
+- [More…](https://music.youtube.com/@pito_boni?si=zqCGUHnAH5jMZqqU)
