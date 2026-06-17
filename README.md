@@ -36,12 +36,6 @@ Hi there! Let's connect and collaborate! 🔬🛰️🌌
 
 <p align="left">
 <a href="https://github.com/vito-boni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vito-boni&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=2bbc8a&bg_color=1F2633&border_color=444c56&include_all_commits=true&count_private=true&custom_title=Stats"/>
-</a>
-</p>
-
-<p align="left">
-<a href="https://github.com/vito-boni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vito-boni&layout=compact&langs_count=8&title_color=FFFFFF&text_color=FFFFFF&bg_color=1F2633&border_color=444c56"/>
 </a>
 </p>
@@ -51,8 +45,10 @@ Read my [GitHub Summary](https://github.com/vito-boni/vito-boni/blob/main/SUMMAR
 #
 
 ### 📲 Let's connect!
-- **Website**: [Vito Boni](https://vitoboni.carrd.co) !
+- **Website**: [Vito Boni](https://vito-boni.carrd.co) !
 - **LinkedIn**: [vito-boni](https://linkedin.com/in/vito-boni) !
+- **Instagram**: [vito_boni](https://instagram.com/v1to_bon1) !
+- **X**: [vito_boni](https://x.com/v1to_bon1) !
 
 #
 
