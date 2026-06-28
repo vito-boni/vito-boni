@@ -44,22 +44,15 @@ Read my [GitHub Summary](https://github.com/vito-boni/vito-boni/blob/main/SUMMAR
 
 #
 
-### 📲 Let's connect!
-- **Website**: [Vito Boni](https://vito-boni.carrd.co) !
-- **LinkedIn**: [vito-boni](https://linkedin.com/in/vito-boni) !
-- **Instagram**: [vito_boni](https://instagram.com/v1to_bon1) !
-- **X**: [vito_boni](https://x.com/v1to_bon1) !
-
-#
-
 ### Personality Check 🛳️🏞️
 - Plant owner, pet caretaker.
 - Piano player.
-- High altitudes < sea level.
-- I love spoilers. I love reading the movie's plot before watching it.
+- Love watching movies and traveling around.
+
+### Favorite Quotes 💬
 - Hard work doesn't guarantee you everything, but it gives you a chance.
 
-### Currently on loop 🎧🔂
+### Currently on loop 🎧
 - Uncle ACE - Blood Orange
 - Let it happen - Tame Impala
 - Rêverie - Claude Debussy
