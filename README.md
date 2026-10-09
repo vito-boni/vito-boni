@@ -1,4 +1,4 @@
-<img src="https://github.com/vito-boni/vito-boni/blob/main/cutestuff/vito_intro.gif" alt="Header Image">
+<img src="https://github.com/vito-boni/vito-boni/blob/main/img/vito.gif" alt="Header Image">
 
 # Vito Boni 🧭
 Hi there! Let's connect and collaborate! 🔬🛰️🌌
