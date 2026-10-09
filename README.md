@@ -6,11 +6,11 @@ Hi there! Let's connect and collaborate! 🔬🛰️🌌
 ### 🖥️ Programming
 
   <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img align="left" alt="GC" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img align="left" alt="GC" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
@@ -25,10 +25,37 @@ Hi there! Let's connect and collaborate! 🔬🛰️🌌
 - Check out a game that I made with Scratch [here](https://scratch.mit.edu/projects/944565585/).
 - The classic snake game on your old Nokia phone can be played [here](https://github.com/vito-boni/Python/blob/main/SNAKE-IS-SNACKING/snake.py).
 
-### 📈 Practical Skills
-- **Languages**: Indonesian (N), English (C1), French (B2), Mandarin (A2), Japanese (A1).
-- **Office Tools**: Google Workspace, Microsoft Office 365, Atlassian Suite, Figma.
-- **Other Software**: DaVinci Resolve & Blender.
+### 🖥️ IT & Development Technologies
+
+- **Front-end:** HTML, CSS, JavaScript
+- **Back-end:** Python, PHP, Flask
+- **Database Management:** MySQL, phpMyAdmin
+- **Development Tools & Environments:** Visual Studio Code, Git, GitHub, MAMP / XAMPP, Postman
+
+### 📑 Digital Tools & Software
+
+- **Productivity & Office Suites:** Microsoft 365, Google Workspace, Apple iWork
+- **Project Management & Collaboration:** Notion, Jira, Confluence, Trello, Asana
+- **AI Assistants:** ChatGPT, Google Gemini, Claude, Microsoft Copilot
+- **Design & Visual Content:** Canva, Figma
+- **Multimedia Production:** DaVinci Resolve, Blender
+- **Communication & Collaboration:** Slack, Microsoft Teams, Zoom
+
+### 💬 Foreign Language
+**Proficient**
+- 🇺🇳 English (C2)
+- 🇺🇳 French (B2 → C1)
+- 🇺🇳 Mandarin (H1 → H6)
+
+**Independent**
+- 🇺🇳 Spanish (A2 → B2)
+- 🇪🇺 German (A2 → B2)
+- 🇧🇷 Portuguese (A2 → B2)
+
+**Elementary**
+- 🇺🇳 Arabic (A0 → A2)
+- 🇺🇳 Russian (A0 → A2)
+- 🇯🇵 Japanese (N5 → N4)
 
 #
 
