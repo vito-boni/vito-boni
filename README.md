@@ -41,7 +41,7 @@ Hi there! Let's connect and collaborate! 🔬🛰️🌌
 - **Multimedia Production:** DaVinci Resolve, Blender
 - **Communication & Collaboration:** Slack, Microsoft Teams, Zoom
 
-### 💬 Foreign Language
+### 💬 Foreign Languages
 **Proficient**
 - 🇺🇳 English (C2)
 - 🇺🇳 French (B2 → C1)
