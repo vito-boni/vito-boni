@@ -1,7 +1,7 @@
 <img src="https://github.com/vito-boni/vito-boni/blob/main/img/vito.gif" alt="Header Image">
 
 # Vito Boni 🧭
-Hi there! Let's connect and collaborate! 🔬🛰️🌌
+Hi there, welcome to my page! 🔬🛰️🌌
 
 ### 🖥️ Programming
 
@@ -71,13 +71,8 @@ Read my [GitHub Summary](https://github.com/vito-boni/vito-boni/blob/main/SUMMAR
 
 #
 
-### Personality Check 🛳️🏞️
-- Plant owner, pet caretaker.
-- Piano player.
-- Love watching movies and traveling around.
-
 ### Favorite Quotes 💬
-- Hard work doesn't guarantee you everything, but it gives you a chance.
+- Hard work doesn't guarantee you every thing, but it gives you chances and lessons.
 
 ### Currently on loop 🎧
 - Uncle ACE - Blood Orange
