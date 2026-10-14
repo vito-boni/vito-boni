@@ -3,7 +3,7 @@
 # Vito Boni
 Hi there, welcome to my page! 🧭🔬🛰️🌌
 
-### 🕹️ Projects
+### 🕹️ Project(s)
 - Check out a game that I made with Scratch <a href="https://scratch.mit.edu/projects/944565585/" target="_blank" rel="noopener noreferrer">here</a>.
 
 #
@@ -23,7 +23,7 @@ Hi there, welcome to my page! 🧭🔬🛰️🌌
 
 ### 📑 Digital Tools & Software
 
-| Category | Tools & Software |
+| Category | Software & Tools |
 | :--- | :--- |
 | **Productivity & Office Suites** | `Apple iWork`, `Google Workspace`, `Microsoft 365` |
 | **Design & Visual Content** | `Canva`, `Figma` |
