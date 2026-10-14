@@ -4,10 +4,9 @@
 Hi there, welcome to my page! 🧭🔬🛰️🌌
 
 ### 🕹️ Projects
-- Check out a game that I made with Scratch [here](https://scratch.mit.edu/projects/944565585/).
-- The classic snake game on your old Nokia phone can be played [here](https://github.com/vito-boni/Python/blob/main/SNAKE-IS-SNACKING/snake.py).
+- Check out a game that I made with Scratch <a href="https://scratch.mit.edu/projects/944565585/" target="_blank" rel="noopener noreferrer">here</a>.
 
-<br>
+#
 
 ### 🖥️ Tech Stack & Tools
 
@@ -18,7 +17,7 @@ Hi there, welcome to my page! 🧭🔬🛰️🌌
 | **Database & Management** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white" /> |
 | **Dev Environments & Tools** | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white" /> <img src="https://img.shields.io/badge/MAMP-000000?style=flat&logo=mamp&logoColor=white" /> |
 | **Cloud & Deployment** | <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" /> |
-| **AI Assistants** | <img src="https://img.shields.io/badge/Claude-CC9B7A?style=flat&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github-copilot&logoColor=white" /> <img src="https://img.shields.io/badge/Grok-000000?style=flat&logo=x&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat&logo=google&logoColor=white" /> `Hermes Agent` |
+| **AI Assistants** | <img src="https://img.shields.io/badge/Claude-CC9B7A?style=flat&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github-copilot&logoColor=white" /> <img src="https://img.shields.io/badge/Grok_Bot-000000?style=flat&logo=x&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat&logo=google&logoColor=white" /> `Hermes Agent` |
 
 <br>
 
@@ -64,4 +63,4 @@ Read my [GitHub Summary](https://github.com/vito-boni/vito-boni/blob/main/SUMMAR
 - Uncle ACE - Blood Orange
 - Let it happen - Tame Impala
 - Rêverie - Claude Debussy
-- [More…](https://music.youtube.com/@pito_boni?si=zqCGUHnAH5jMZqqU)
+- [More…](https://music.youtube.com/@v1to_bon1)
