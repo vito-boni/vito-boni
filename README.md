@@ -31,13 +31,13 @@ Hi there, welcome to my page! 🧭🔬🛰️🌌
 
 <br>
 
-### 💬 Foreign Languages (Current → Target Levels of 2030)
+### 🌏 Foreign Language Goals
 
-| Proficiency | Languages 🌏🇺🇳 |
+| Proficiency | Languages |
 | :--- | :--- |
-| **Proficient** | `🇺🇸 English (C2)` &nbsp; `🇫🇷 French (B2 → C1)` &nbsp; `🇨🇳 Mandarin (H1 → H6)` |
-| **Independent** | `🇪🇸 Spanish (A2 → B2)` &nbsp; `🇩🇪 German (A2 → B2)` &nbsp; `🇧🇷 Portuguese (A2 → B2)` |
-| **Elementary** | `🇸🇦 Arabic (A0 → A2)` &nbsp; `🇷🇺 Russian (A0 → A2)` &nbsp; `🇯🇵 Japanese (N5 → N4)` |
+| **Proficient** | `🇺🇸 English (C2)` &nbsp; `🇫🇷 French (C1)` &nbsp; `🇨🇳 Mandarin (H6)` |
+| **Independent** | `🇪🇸 Spanish (B2)` &nbsp; `🇩🇪 German (B2)` &nbsp; `🇧🇷 Portuguese (B2)` |
+| **Elementary** | `🇸🇦 Arabic (A2)` &nbsp; `🇷🇺 Russian (A2)` &nbsp; `🇯🇵 Japanese (N4)` |
 
 #
 
@@ -59,7 +59,7 @@ Read my [GitHub Summary](https://github.com/vito-boni/vito-boni/blob/main/SUMMAR
 - "Pure consumption of information without processing makes you lost; pure internal speculation without real input makes you delusional. Balance requires both." (學而不思則罔，思而不學則殆)
 - "What you do not wish for yourself, do not impose on others." (己所不欲，勿施於人)
 
-### Currently on loop 🎧
+### 🎧 Currently on loop
 - Uncle ACE - Blood Orange
 - Let it happen - Tame Impala
 - Rêverie - Claude Debussy
