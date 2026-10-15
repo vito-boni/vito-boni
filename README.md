@@ -1,7 +1,7 @@
 <img src="https://github.com/vito-boni/vito-boni/blob/main/img/vito.gif" alt="Header Image">
 
 # Vito Boni
-Hi there, welcome to my page! 🧭🔬🛰️🌌
+Hi there, welcome to my personal page! 🧭🔬🛰️🌌
 
 ### 🕹️ Project(s)
 - Check out a game that I made with Scratch <a href="https://scratch.mit.edu/projects/944565585/" target="_blank" rel="noopener noreferrer">here</a>.
@@ -31,7 +31,7 @@ Hi there, welcome to my page! 🧭🔬🛰️🌌
 
 <br>
 
-### 🌏 Foreign Language Goals
+### 🌏 Foreign Language Goals (2030)
 
 | Proficiency | Languages |
 | :--- | :--- |
