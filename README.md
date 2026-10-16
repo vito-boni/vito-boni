@@ -1,7 +1,6 @@
 <img src="https://github.com/vito-boni/vito-boni/blob/main/img/vito.gif" alt="Header Image">
 
-# Vito B
-Hi there, welcome to my personal page! 🧭🔬🛰️🌌
+# Welcome to my space 🧭🔬🛰️🌌
 
 ### 🕹️ Project(s)
 - Check out a game that I made with Scratch <a href="https://scratch.mit.edu/projects/944565585/" target="_blank" rel="noopener noreferrer">here</a>.
