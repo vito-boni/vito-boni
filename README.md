@@ -1,6 +1,6 @@
 <img src="https://github.com/vito-boni/vito-boni/blob/main/img/vito.gif" alt="Header Image">
 
-# Vito Boni
+# Vito B
 Hi there, welcome to my personal page! 🧭🔬🛰️🌌
 
 ### 🕹️ Project(s)
